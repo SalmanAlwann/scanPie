@@ -27,7 +27,7 @@ scanPie is a powerful command-line tool designed for port scanning. It efficient
 
 1. Clone the repository:
 ```shell
-git clone ttps://github.com/SalmanAlwann/scanPie.git
+git clone https://github.com/SalmanAlwann/scanPie.git
 ```
 
 2. Navigate to the project directory:
@@ -64,3 +64,5 @@ After the scan, scanPie generates the following output:
 - SSL information: If SSL scanning is enabled, SSL-related information for open ports is displayed.
 - Version detection: If version scanning is enabled, detected service versions are shown.
 - Output files: The tool saves scan results in an output directory, including a text file with a list of open ports and, if applicable, SSL information.
+- Graphs
+
