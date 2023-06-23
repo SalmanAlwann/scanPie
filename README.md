@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icons/logo.png" alt="scanPie" width="200px"></a>
+  <img src="icons/logo.png" alt="scanPie" width="1000px"></a>
   <br>
 </h1>
 
